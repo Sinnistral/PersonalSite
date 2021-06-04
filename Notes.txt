@@ -1,0 +1,21 @@
+TODOS
+
+1. Build the project
+    - creating folder
+    - adding files
+    - connecting files
+
+2. Nav Bar
+    - Name, left
+    - 4 links, right
+
+3. Landing Page
+    - titles
+    - images
+    - descriptions, objective
+    - javascript?
+
+4. Build out other pages
+    - images
+    - split column layout
+    - content
